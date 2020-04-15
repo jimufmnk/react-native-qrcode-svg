@@ -1,4 +1,4 @@
-# SAME LIBRARY AS RN-qrcode-svg but with 40 padding bottom
+# Same library as RN-qrcode-svg but with 40 padding bottom
 
 
 [![NPM](https://nodei.co/npm/react-native-qrcode-svg.png)](https://npmjs.org/package/react-native-qrcode-svg)
