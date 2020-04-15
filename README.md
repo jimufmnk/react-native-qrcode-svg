@@ -1,3 +1,6 @@
+# SAME LIBRARY AS RN-image-marker but with 40 padding bottom
+
+
 [![NPM](https://nodei.co/npm/react-native-qrcode-svg.png)](https://npmjs.org/package/react-native-qrcode-svg)
 ![circleci](https://circleci.com/gh/awesomejerry/react-native-qrcode-svg.svg?style=shield&circle-token=185bdd4fed561139178638f5b9f9c48ddefc9288)
 
